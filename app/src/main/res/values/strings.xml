@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Popular Libraries</string>
+
+    <string name="counter_one">Счетчик 1</string>
+    <string name="counter_two">Счетчик 2</string>
+    <string name="counter_three">Счетчик 3</string>
+    <string name="avatar_description">Avatar</string>
+    <string name="not_available">Not available</string>
+    <string name="caption_repositories">repositories</string>
+    <string name="caption_repository">repository</string>
+    <string name="caption_forks">forks</string>
+    <string name="caption_fork">fork</string>
+
+</resources>
